@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on Ase Flex network 1 study blog</title>
+    <link>/categories/general/</link>
+    <description>Recent content in General on Ase Flex network 1 study blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Sep 2016 18:17:28 +0200</lastBuildDate>
+    <atom:link href="/categories/general/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FlexNetwork Integrator V1</title>
+      <link>/2016/09/04/flexnetwork-integrator-v1</link>
+      <pubDate>Sun, 04 Sep 2016 18:17:28 +0200</pubDate>
+      
+      <guid>/2016/09/04/flexnetwork-integrator-v1</guid>
+      <description>
+
+&lt;h2 id=&#34;flexnetwork-integrator&#34;&gt;FlexNetwork Integrator&lt;/h2&gt;
+
+&lt;p&gt;This &lt;strong&gt;certification&lt;/strong&gt; validates that you can deploy complex, unified enterprise-level campus networks in traditional, Cloud and Converged Infrastructure environments. Achieving this certification validates you can:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Use open, standards-based solutions to support bandwidth-intensive, delay-sensitive, server-to-server traffic&lt;/li&gt;
+&lt;li&gt;Prepare the network for innovations in cloud services, security, OpenFlow and BYOD (Bring Your Own Device)&lt;/li&gt;
+&lt;li&gt;Integrate networking elements as well as servers and storage network-related components&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This certification also validates your expertise in one of three electives.&lt;/p&gt;
+
+&lt;p&gt;You can choose from:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Software-defined Networks&lt;/strong&gt; HPE FlexFabric Data Centers&lt;/li&gt;
+&lt;li&gt;Aruba Certified Mobility Professional (ACMP)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
