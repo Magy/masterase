@@ -1,14 +1,16 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Icarus"
+title = "Ase Flex network 1 study blog"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "spf13"
+disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 # Define the number of posts per page
 paginate = 10
 footnotereturnlinkcontents = "↩"
 theme = "hugo-icarus-theme"
+enableRobotsTXT = true
+
 
 
 [permalinks]
@@ -17,13 +19,13 @@ theme = "hugo-icarus-theme"
 
 [params]
     # Tell me who you are
-    author = "Stefano fenili"
-    bio = "Blogger - Programmer - Gopher"
+    author = "Stefano Fenili"
+    bio = "Network Engineer"
     location = "Earth"
-    site_description = ""
-    copyright  = "Powered by [Hugo](//gohugo.io)."
-    avatar = "css/images/avatar.png"
-    logo = "css/images/logo.png"
+    site_description = "HP Ase - Flex network 1 study blog is my personal study blog  to help me to prepare ASE certification.  "
+    copyright  = "Stefano Fenili, Powered by [Hugo](//gohugo.io)."
+    avatar = "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/005/088/002/126d0ef.jpg"
+    logo = "http://www.www8-hp.com/it/it/images/i/hpi/header-footer/caas-hf-v3.2/hpi-hp-logo-pr.gif"
 
     # Format dates with Go's time formatting
     date_format = "2006-01-02"
@@ -39,15 +41,6 @@ theme = "hugo-icarus-theme"
     label  = "Home"
     link   = "/"
 
-[[params.menu]]
-    before = false
-    label  = "Tags"
-    link   = "tags/"
-
-[[params.menu]]
-    before = false
-    label  = "Categories"
-    link   = "categories/"
 
 # Enter a link for the follow button on the left
 [params.profile]
@@ -58,9 +51,9 @@ theme = "hugo-icarus-theme"
 # Add your social network accounts to the profile section on the left
 # by entering your username. The links to your account will be
 # created automatically.
-    github          = "digitalcraftsman"
+    github          = "Magy"
     gitlab          = ""
-    bitbucket       = ""
+    bitbucket       = "sfenili"
     jsfiddle        = ""
     codepen         = ""
     foursquare      = ""
@@ -68,7 +61,7 @@ theme = "hugo-icarus-theme"
     deviantart      = ""
     behance         = ""
     flickr          = ""
-    instagram       = ""
+    instagram       = "ilmagy"
     youtube         = ""
     vimeo           = ""
     vine            = ""
@@ -76,20 +69,20 @@ theme = "hugo-icarus-theme"
     wordpress       = ""
     tumblr          = ""
     xing            = ""
-    linkedin        = ""
+    linkedin        = "stefanofenili"
     slideshare      = ""
     stackoverflow   = ""
     reddit          = ""
     pinterest       = ""
     googleplus      = ""
-    facebook        = ""
+    facebook        = "stefano.fenili"
     facebook_admin  = ""
     twitter_domain  = ""
-    twitter         = "spf13"
+    twitter         = ""
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-    recent_articles = true
+    recent_articles = false
     categories = true
     tags = true
     tag_cloud = true
