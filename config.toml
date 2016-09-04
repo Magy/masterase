@@ -4,7 +4,7 @@ title = "Ase Flex network 1 study blog"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-349630-46"
 # Define the number of posts per page
 paginate = 6
 footnotereturnlinkcontents = "↩"
