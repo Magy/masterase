@@ -25,7 +25,7 @@ enableRobotsTXT = true
     site_description = "HP Ase - Flex network 1 study blog is my personal study blog  to help me to prepare ASE certification.  "
     copyright  = "Stefano Fenili, Powered by [Hugo](//gohugo.io)."
     avatar = "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/005/088/002/126d0ef.jpg"
-    logo = "http://www.www8-hp.com/it/it/images/i/hpi/header-footer/caas-hf-v3.2/hpi-hp-logo-pr.gif"
+    logo = "/img/hpi-hp-logo-pr.gif"
 
     # Format dates with Go's time formatting
     date_format = "2006-01-02"

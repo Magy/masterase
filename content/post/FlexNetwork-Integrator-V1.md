@@ -1,9 +1,9 @@
 +++
-banner = "http://www.exitcertified.com/assets/CourseCategoryImages/HPE.png"
+banner = "/img/HPE.png"
 categories = ["General"]
 date = "2016-09-04T18:17:28+02:00"
 description = "FlexNetwork Integrator,validates that you can deploy complex, unified enterprise-level campus networks in traditional, Cloud and Converged Infrastructure environments. "
-images = ["http://www.exitcertified.com/assets/CourseCategoryImages/HPE.png"]
+images = ["/static/img/CourseCategoryImages/HPE.png"]
 menu = ""
 tags = ["FlexNetwork", "HP", "ASE"]
 title = "FlexNetwork Integrator V1"
